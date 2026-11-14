@@ -1,0 +1,12 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.8.22.0</Version>
+    <Author>Local development</Author>
+    <Name>Doman Hint Pilot</Name>
+    <Punchline>Explicitly started in-round-only Doman Mahjong hint automation; results, End Match, matchmaking and requeue are manual.</Punchline>
+    <Description>Read Doman Mahjong hints and automate tested in-match actions, with pause-on-unknown safeguards. NPC/unranked only; no queueing.</Description>
+    <Tags>mahjong;diagnostics;ui</Tags>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+</Project>
